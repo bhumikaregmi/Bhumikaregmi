@@ -12,3 +12,8 @@
 
 
 ![My Github stats]<br/>
+![My Github stats]<br/>
+<a href="https://github-readme-stats.vercel.app/api?username=bhumikaregmi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekuprety&show_icons=true&include_all_commits=true&theme=radical" alt="Bibek's github stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibekuprety&hide=html, shell&theme=radical" alt="Top Languages" />
+</a>
