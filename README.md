@@ -15,5 +15,5 @@
 ![My Github stats]<br/>
 <a href="https://github-readme-stats.vercel.app/api?username=bhumikaregmi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumikaregmi&show_icons=true&include_all_commits=true&theme=radical" alt="Bhumika's github stats" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumikaregmiy&hide=html, shell&theme=radical" alt="Top Languages" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumikaregmi&hide=html, shell&theme=radical" alt="Top Languages" />
 </a>
